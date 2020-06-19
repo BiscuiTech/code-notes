@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'gatsby-starter-code-notes',
-    description: `A starter for gatsby-theme-code-notes`,
-    author: 'Zander',
+    title: 'BiscuiTech\'s code notes',
+    description: `BiscuiTech memory bank`,
+    author: 'BiscuiTech',
   },
   plugins: [
     {
@@ -10,8 +10,9 @@ module.exports = {
       options: {
         contentPath: 'notes',
         basePath: '/',
-        showThemeInfo: true,
+        showThemeInfo: false,
         showDescriptionInSidebar: true,
+        logo: '/static/images/Biscui.png'
       },
     },
   ],
