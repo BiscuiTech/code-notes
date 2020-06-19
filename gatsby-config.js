@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'BiscuiTech\'s code notes',
-    description: `BiscuiTech memory bank`,
+    description: `Notes on code. My memory bank.`,
     author: 'BiscuiTech',
   },
   plugins: [
