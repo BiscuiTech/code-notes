@@ -12,7 +12,7 @@ module.exports = {
         basePath: '/',
         showThemeInfo: false,
         showDescriptionInSidebar: true,
-        logo: 'static/images/Biscui.png'
+        logo: 'https://res.cloudinary.com/biscuitech/image/upload/c_scale,w_837/v1580149273/biscui.tech/BiscuiTech_Logo_2019.png'
       },
     },
     {
