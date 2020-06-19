@@ -1,6 +1,8 @@
 ---
 title: Array Patterns
-tags: javascript
+tags:
+  - javascript
+emoji: 🎣
 ---
 
 # Array Patterns
