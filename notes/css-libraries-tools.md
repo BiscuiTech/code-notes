@@ -13,6 +13,12 @@ tags:
 
 [Hex Code Color Blender](https://hexcolorblender.now.sh/)
 
-## Loader
+## Loader Spinners & Others
 
 [Loaders Examples](https://vineethtrv.github.io/loader/)
+
+## Icons
+
+- [SystemUI Icons](https://systemuicons.com/)
+- [Ikonate](https://ikonate.com/)
+- [Hero Icons](https://heroicons.dev/)
