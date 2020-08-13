@@ -22,3 +22,4 @@ tags:
 - [SystemUI Icons](https://systemuicons.com/)
 - [Ikonate](https://ikonate.com/)
 - [Hero Icons](https://heroicons.dev/)
+- [Styled-icons](https://styled-icons.js.org/): Can be used as a Styled-Component
