@@ -16,7 +16,7 @@
     "start": "gatsby serve"
   },
   "dependencies": {
-    "gatsby-plugin-manifest": "2.4.24",
+    "gatsby-plugin-manifest": "2.4.26",
     "gatsby": "2.24.50",
     "gatsby-plugin-offline": "3.2.24",
     "gatsby-theme-code-notes": "1.15.0",
