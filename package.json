@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "gatsby-plugin-manifest": "2.4.24",
-    "gatsby": "2.24.50",
+    "gatsby": "2.24.53",
     "gatsby-plugin-offline": "3.2.24",
     "gatsby-theme-code-notes": "1.15.0",
     "react": "16.13.1",
