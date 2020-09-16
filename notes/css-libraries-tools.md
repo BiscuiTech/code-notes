@@ -23,3 +23,6 @@ tags:
 - [Ikonate](https://ikonate.com/)
 - [Hero Icons](https://heroicons.dev/)
 - [Styled-icons](https://styled-icons.js.org/): Can be used as a Styled-Component
+
+# Tailwind CSS
+https://tailwind.ink/
